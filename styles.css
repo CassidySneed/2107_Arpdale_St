@@ -1,0 +1,171 @@
+
+body{
+    background-color: rgb(57, 61, 62); 
+}
+.page-header{
+    display:flex; 
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(48, 54, 54);
+    color: white;
+    margin: 0%;
+}
+
+.page-header h4{
+    margin: 1.5rem;
+}
+
+.page-header ul{
+    display: flex;
+    list-style-type: none;
+    margin: 1.5rem;
+}
+.page-header a{
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    align-items: center;
+
+}
+
+.card {
+    padding: 20px;
+    background-color:rgb(57, 61, 62);
+    border: none;
+    /* font-weight: bold;  */
+
+}
+
+
+.card h4{
+    color:rgb(19, 19, 19) ; 
+    font-weight: bold;
+    text-align: left;
+    /* font-size: 25px; */
+   
+
+    
+}
+.card h6{
+    color: rgb(120, 117, 117); 
+    text-align: left;
+    font-weight: bold;
+}
+
+.card p{
+    color: rgb(178, 174, 174); 
+    text-align: left;
+}
+
+
+
+#hero {
+    background-image: url('https://photos.zillowstatic.com/fp/30ebd4a4d90b9b8e1c6d218d940d9df6-uncropped_scaled_within_1536_1152.webp');
+    height: 85vh;
+    background-size: cover;
+    opacity: 0.8;
+}
+
+#hero h1, p{
+    display: flex;
+    justify-content: center;
+    color: white;
+
+
+}
+
+
+.highlights { 
+    text-align: center;
+    padding-top: 2rem;
+    margin-bottom: 0%;
+    color: white; 
+}
+
+.highlights h2{
+font-size: 40px;
+}
+
+
+
+.carousel img{
+    height: 96vh;  
+}
+
+.home-footer{
+    color: white;
+}
+
+
+
+
+
+
+
+
+/* #style_cards {
+    color: bisque; 
+    margin-top: 260px;
+    margin-right: 5px; 
+    margin-left: 20px;
+    text-align: left;
+    background-color: rgb(57, 61, 62);
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .page-header{
+    display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+    background-color: rgb(41, 59, 55);
+}
+
+.page-header ul{
+    display:flex; 
+    flex-direction: row;
+    justify-content: space-between;
+    list-style: none; 
+    margin-right: 30px; 
+}
+
+.page-header a {
+    display: block;
+} */
